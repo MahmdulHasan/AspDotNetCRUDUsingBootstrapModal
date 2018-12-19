@@ -117,7 +117,11 @@
                 }
             });
 
-        }); Popupform
+        }); 
+
+        $("#myModal").on("hidden.bs.modal", function () {
+            $(this).find('form').trigger('reset');
+        });
        
         function Popupform(url) {
             $.ajax({
@@ -134,7 +138,7 @@
                     $('#myModal').modal('show');
 
                     $("#myModal").on("hidden.bs.modal", function () {
-                      //  $('#EmployeeId').val(response.EmployeeId=0);
+                        $('#EmployeeId').val(response.EmployeeId=0);
                         $(this).find('form').trigger('reset');
                     });
                 },
@@ -156,7 +160,7 @@
                     success: function (data) {
                         if (data.success) {
 
-                            $('#myModal').modal('toggle');
+                            $("[data-dismiss=modal]").trigger({ type: "click" });
                             dataTable.ajax.reload();
                            
                         }

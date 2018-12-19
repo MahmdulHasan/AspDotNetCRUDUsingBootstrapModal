@@ -113,10 +113,9 @@ C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\bin\Microsoft.
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\bin\Microsoft.AI.Web.xml
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.csprojAssemblyReference.cache
+C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.Migrations.abc.resources
+C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.csproj.GenerateResource.cache
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.csproj.CoreCompileInputs.cache
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.csproj.CopyComplete
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.dll
 C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.pdb
-C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.Migrations.abc.resources
-C:\Users\BSSIT\source\repos\BootstrapModalCRUD\BootstrapModalCRUD\obj\Debug\BootstrapModalCRUD.csproj.GenerateResource.cache
